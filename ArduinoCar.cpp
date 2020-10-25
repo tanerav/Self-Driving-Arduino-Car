@@ -15,5 +15,4 @@ void loop() {
  
 digitalWrite(motor1pin1, HIGH);
 digitalWrite(motor2pin1, HIGH);
-turnleft(motor1pin1,motor2pin1);
-}# self driving car code
+}
